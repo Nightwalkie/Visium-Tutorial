@@ -1,4 +1,4 @@
-# Visium — Guided Clustering Tutorial
+# Visium — Tutorial
 
 **Read the tutorial:** https://nightwalkie.github.io/visium-guided-clustering-tutorial/
 
