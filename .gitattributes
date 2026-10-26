@@ -1,0 +1,4 @@
+# Keep the published tutorial and its companion scripts byte-identical to the
+# reviewed local deliverables, including their line endings.
+index.html -text
+*.R -text
